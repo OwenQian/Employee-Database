@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Ryan
+ * @author Owen Qian and Ryan Wong
  */
 public abstract class Employee {
     
