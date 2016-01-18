@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Ryan
+ * @author Owen Qian
  */
 public class ParttimeEmployee extends Employee{
     
